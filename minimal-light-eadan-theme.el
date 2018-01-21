@@ -37,7 +37,7 @@
  '(outline-6 ((((class color) (min-colors 89)) (:inherit org-level-6))))
  '(outline-7 ((((class color) (min-colors 89)) (:inherit org-level-7))))
  '(outline-8 ((((class color) (min-colors 89)) (:inherit org-level-8))))
- '(default ((((class color) (min-colors 89)) (:background "white" :foreground "grey20"))))
- '(tuareg-font-lock-governing-face ((t (:foreground "black" :weight normal)))))
+ '(tuareg-font-lock-governing-face ((t (:foreground "gray20" :weight normal))))
+ '(default ((((class color) (min-colors 89)) (:background "white" :foreground "grey20")))))
 
 (provide-theme 'minimal-light-eadan)
